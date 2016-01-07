@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search City</string>
+    <string name ="enter_text">City, State</string>
+    <string name="show_the_text">Show the text</string>
+</resources>
